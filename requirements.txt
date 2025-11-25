@@ -1,0 +1,7 @@
+scrapy
+PyPDF2
+pdfminer.six
+beautifulsoup4
+requests
+python-dotenv
+tldextract
